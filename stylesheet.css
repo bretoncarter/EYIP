@@ -26,6 +26,11 @@ body{
 .Angel{
   width: 120px;
   height: 120px;
+  float: left;
+}
+.history-text{
+  text-align: right;
+  float: right;
 }
 /* Form */
 .container {
