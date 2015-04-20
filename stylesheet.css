@@ -12,7 +12,7 @@ body{
  float: left;
  padding: 5px;
  text-align: center;
- background: #1d6991;
+ background: #00008B;
  color: =white;
  text-decoration: none;
  display: inline;
@@ -35,12 +35,7 @@ body{
   text-align: right;
   float: right;
 }
-.Media{
-  text-align: center;
-  float: both;
-  width: 800px;
-  height: 550px;
-}
+
 /* Form */
 .container {
   position: relative;
@@ -216,9 +211,11 @@ td:last-child {
 ______________________________________*/
 #footer{
   position: relative;
-  height: 50px;
+  height: 10px;
   width: 100%;
   clear: both;
   font-size: 14px;
   text-align: center;
-  color: #ffffff;
+  color: black;
+}
+
