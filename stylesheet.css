@@ -12,14 +12,14 @@ body{
  float: left;
  padding: 5px;
  text-align: center;
- background: #00008B;
+ background: #29297A;
  color: =white;
  text-decoration: none;
  display: inline;
 }
 .navigation a:hover{
   color: #c00;
-  background-color: #A8A8A8;
+  background-color:#8585C2;
 }
 .navigation a:visited{
   color: white;
