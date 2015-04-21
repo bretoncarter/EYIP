@@ -16,6 +16,7 @@ body{
  color: =white;
  text-decoration: none;
  display: inline;
+ color: white;
 }
 .navigation a:hover{
   color: #c00;
@@ -23,6 +24,9 @@ body{
 }
 .navigation a:visited{
   color: white;
+}
+.navigation a:link{
+color: white;
 }
 
 /* History Profiles */
@@ -220,7 +224,11 @@ ______________________________________*/
   text-align: center;
   color: black;
 }
+#footer a:link{
+  color: #003399;
+}
 #footer a:hover{
 color:#CC0000;
 }
-
+#footer a:visited{
+}
